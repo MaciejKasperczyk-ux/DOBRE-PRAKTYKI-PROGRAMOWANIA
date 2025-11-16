@@ -33,11 +33,12 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests in test_functions.py.executor": "Run",
     "Python.functions.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "unit__tests",
+    "git-widget-placeholder": "python__api",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Makas/zaawansowaneprogramowanie"
   }
@@ -58,16 +59,5 @@
       <updated>1763276653728</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/functions.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
