@@ -43,7 +43,7 @@ def flatten_list(nested_list: list) -> list:
 
 
 def word_frequencies(text: str) -> dict:
-    cleaned = re.sub(r"[^a-zA-ZąęćłńóśźżĄĘĆŁŃÓŚŹŻ ]", "", text.lower())
+    cleaned = re.sub(r"[^a-zA-ZąęćłńóśźżĄĘĆŁŃÓŚŹŻyYiI ]", "", text.lower())
     words = cleaned.split()
     freq = {}
     for w in words:
